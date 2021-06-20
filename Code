@@ -9,7 +9,6 @@ from telegram import ReplyKeyboardMarkup
 from telegram import ReplyKeyboardRemove
 from pycoingecko import CoinGeckoAPI
 from py_currency_converter import convert
-# УСТАНОВИТЕ НУЖНЫЕ БИБЛИОТЕКИ, ВСЕ ПОДРОБНОСТИ - https://www.youtube.com/channel/UCNsCG28uQxTz6kL2HvLpUxw
 
 cg = CoinGeckoAPI()
 
